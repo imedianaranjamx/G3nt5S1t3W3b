@@ -1,0 +1,4 @@
+[29-Oct-2022 11:22:28 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/gentsmx/public_html/wp-content/themes/twentyfifteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/gentsmx/public_html/wp-content/themes/twentyfifteen/404.php on line 10
